@@ -1,5 +1,10 @@
 # wow-addon-details
 
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=wow-addon-details)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=wow-addon-details)
+<!-- links:end -->
+
 Meine Kopie des WoW-Addons [Details! Damage Meter](https://github.com/Tercioo/Details-Damage-Meter) von Tercioo. Ich habe das Addon nicht geschrieben, ich habe es nur hierher gelegt, um einen Fehler zu beheben, der mich im Spiel gestört hat.
 
 ## Meine Änderung
